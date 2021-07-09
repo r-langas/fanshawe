@@ -1,0 +1,152 @@
+[
+	{
+		"ProductName":"Air Force 1",
+		"GraphicName":"",
+		"CostPrice":120.00,
+		"MSRP":120.00,
+		"QtyOnHand":11,
+		"QtyOnBackOrder":12,
+		"Description":"Designed by Bruce Kilgore and introduced in 1982, the Air Force 1 was the first ever basketball shoe to feature Nike Air technology, revolutionizing the game and sneaker culture forever. Over three decades since its first release, the Air Force 1 remains true to its roots while earning its status as a fashion staple for seasons to come.",
+		"Brand":"Nike"
+	},
+	{
+		"ProductName":"Air Max 90",
+		"GraphicName":"",
+		"CostPrice":160.00,
+		"MSRP":160.00,
+		"QtyOnHand":12,
+		"QtyOnBackOrder":13,
+		"Description":"One of the most popular Air Max sneakers of all-time, the Nike Air Max 90 was originally released in 1990. They feature a bigger Air-Sole unit than their predecessor by eliminating the foam between the outsole. They have been retroed numerous times in various styles, versions and colorways.",
+		"Brand":"Nike"
+	},
+	{
+		"ProductName":"Blazer",
+		"GraphicName":"",
+		"CostPrice":135.00,
+		"MSRP":135.00,
+		"QtyOnHand":13,
+		"QtyOnBackOrder":14,
+		"Description":"The Nike Blazer is one of the oldest sneakers in Nike history. Originally a basketball shoe back in 1973 and worn by the likes of George Gervin, the Blazer has gone on to be adapted as a popular sneaker for casual lifestyle wear and even for skateboarding.",
+		"Brand":"Nike"
+	},
+	{
+		"ProductName":"Air Jordan 1",
+		"GraphicName":"",
+		"CostPrice":215.00,
+		"MSRP":215.00,
+		"QtyOnHand":14,
+		"QtyOnBackOrder":15,
+		"Description":"The Air Jordan 1 High debuted in 1985 as the first signature sneaker developed by Nike for Michael Jordan. The Peter Moore designed performance basketball sneaker featured a simple Nike Dunk inspired design that incorporated the Nike Swoosh and the Jordan Wings logo and featured Nike Air.",
+		"Brand":"Nike"
+	},
+	{
+		"ProductName":"Cortez",
+		"GraphicName":"",
+		"CostPrice":100.00,
+		"MSRP":100.00,
+		"QtyOnHand":15,
+		"QtyOnBackOrder":16,
+		"Description":"The Nike Cortez is the first track shoe released by Nike in 1972, and is therefore thought to be a significant aspect to the success of the company. The Nike Cortez was first designed by Nike co-founder Bill Bowerman, an Olympic-class track coach, who felt that athletes needed a comfortable and durable running shoe designed for distance training and road running.",
+		"Brand":"Nike"
+	},
+	{
+		"ProductName":"Ultraboost",
+		"GraphicName":"",
+		"CostPrice":250.00,
+		"MSRP":250.00,
+		"QtyOnHand":16,
+		"QtyOnBackOrder":17,
+		"Description":"Launched in 2015, adidas Ultraboost shoes became the first running shoe to be as popular in streetwear style as in performance running. Their iconic silhouette is made of a Primeknit upper, separated lace cage and heel-to-toe Boost for incredible energy return.",
+		"Brand":"Adidas"
+	},
+	{
+		"ProductName":"NMD",
+		"GraphicName":"",
+		"CostPrice":170.00,
+		"MSRP":170.00,
+		"QtyOnHand":17,
+		"QtyOnBackOrder":18,
+		"Description":"Crafted for city exploration, men's adidas NMDs feature a Primeknit upper that provides new levels of strength, flexibility and stability through the streets. The Primeknit sits atop of Boost, our most responsive cushioning ever, to maximize energy return for any journey. The combination built from optimal tooling lends for a nomadic lifestyle without boundaries.",
+		"Brand":"Adidas"
+	},
+	{
+		"ProductName":"Yeezy Boost 350",
+		"GraphicName":"",
+		"CostPrice":270.00,
+		"MSRP":270.00,
+		"QtyOnHand":18,
+		"QtyOnBackOrder":19,
+		"Description":"The YEEZY BOOST 350 V2 features an upper composed of re-engineered Primeknit. The post-dyed monofilament side stripe is woven into the upper. Reflective threads are woven into the laces. The midsole utilizes adidas' innovative BOOST™ technology.",
+		"Brand":"Adidas"
+	},
+	{
+		"ProductName":"Superstar",
+		"GraphicName":"",
+		"CostPrice":99.99,
+		"MSRP":99.99,
+		"QtyOnHand":19,
+		"QtyOnBackOrder":20,
+		"Description":"The adidas Superstar is a low-top basketball shoe that first released in 1969. It features a rubber shell toe with a mix of leather and a herring-bone patterned outsole. The shoe was made famous by basketball legend Kareem Abdul-Jabbar and Queens hip-hop group Run DMC.",
+		"Brand":"Adidas"
+	},
+	{
+		"ProductName":"Stan Smith",
+		"GraphicName":"",
+		"CostPrice":110.00,
+		"MSRP":110.00,
+		"QtyOnHand":20,
+		"QtyOnBackOrder":21,
+		"Description":"Adidas Stan Smith is a tennis shoe made by Adidas, and first launched in 1965. Originally named 'Adidas Robert Haillet' after the brand endorsed French prominent player Robert Haillet, in 1978 the sneakers were renamed after Stan Smith, an American tennis player who was active between the end of the 1960s and the beginning of the 1980s.",
+		"Brand":"Adidas"
+	},
+	{
+		"ProductName":"Authentic",
+		"GraphicName":"",
+		"CostPrice":64.99,
+		"MSRP":64.99,
+		"QtyOnHand":21,
+		"QtyOnBackOrder":22,
+		"Description":"Born in Anaheim, California in 1966, the Authentic is the original Vans heritage style. Originally know as Vans #44 Deck Shoes, the Authentic became an immediate cult icon, and has embodied our “Off The Wall” attitude ever since.",
+		"Brand":"Vans"
+	},
+	{
+		"ProductName":"Classic Slip-On",
+		"GraphicName":"",
+		"CostPrice":65.00,
+		"MSRP":65.00,
+		"QtyOnHand":23,
+		"QtyOnBackOrder":24,
+		"Description":"First introduced in 1977, the Vans #98—now known as the Classic Slip-On—instantly became an icon in Southern California. Fast forward to today, and the Classic Slip-On is known worldwide for its comfortable silhouette, easy wearability, and beloved design.",
+		"Brand":"Vans"
+	},
+	{
+		"ProductName":"Old Skool",
+		"GraphicName":"",
+		"CostPrice":79.99,
+		"MSRP":79.99,
+		"QtyOnHand":24,
+		"QtyOnBackOrder":25,
+		"Description":"First known as the Vans #36, the Old Skool debuted in 1977 with a unique new addition: a random doodle drawn by founder Paul Van Doren, and originally referred to as the “jazz stripe.” Today, the famous Vans Sidestripe has become the unmistakable—and instantly recognizable—hallmark of the Vans brand.",
+		"Brand":"Vans"
+	},
+	{
+		"ProductName":"SK8-HI",
+		"GraphicName":"",
+		"CostPrice":89.99,
+		"MSRP":89.99,
+		"QtyOnHand":25,
+		"QtyOnBackOrder":26,
+		"Description":"The Sk8-Hi was introduced in 1978 as Style 38, and showcased the now-iconic Vans Sidestripe on a new, innovative high top silhouette. As only the second model featuring the recognizable marker formerly known as the “jazz stripe,” the Sk8-Hi brought a whole new look to the Vans family.",
+		"Brand":"Vans"
+	},
+	{
+		"ProductName":"Era",
+		"GraphicName":"",
+		"CostPrice":65.00,
+		"MSRP":65.00,
+		"QtyOnHand":27,
+		"QtyOnBackOrder":28,
+		"Description":"The Vans Era, originally called the Vans #95, was brought to life in 1976 and made popular by the legendary Z-Boys of Santa Monica. It was the first shoe to include our famous padded collar, completely changing the game for comfort, and it remains a favorite for creative people worldwide.",
+		"Brand":"Vans"
+	}
+]
